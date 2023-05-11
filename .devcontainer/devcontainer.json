@@ -1,8 +1,0 @@
-{
-    "name": "test",
-    "runArgs": ["--init"],
-    "build": {
-        "dockerfile": "Dockerfile"
-    },
-    "remoteUser": "vscode"
-}
