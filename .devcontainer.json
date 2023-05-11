@@ -1,0 +1,8 @@
+{
+    "name": "test docker",
+    "image": "cypress/browsers:node14.17.0-chrome91-ff89",
+    "runArgs": [
+        "--init",
+        "--privileged"
+    ]
+}
